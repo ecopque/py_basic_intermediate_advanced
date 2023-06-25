@@ -7,4 +7,4 @@ acessorios.append('4 x 4')
 acessorios.sort()
 acessorios.pop() # Retira o último.
 acessorios.pop(3) # Remover um item específico da lista pelo seu índice.
-print(acessorios)
+print(acessorios) # ;-)
