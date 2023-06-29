@@ -9,3 +9,5 @@ for i in range(10):
 print(quadrado)
 ##########################################################
 [i ** 2 for i in range(10)] # List Comprehension. Não gosto desta forma. Deselegante!
+##########################################################
+quadrado2 = [i ** 2 for i in range(10)] # List Comprehension! sic
