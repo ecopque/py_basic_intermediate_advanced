@@ -5,3 +5,9 @@ dados = [
 ]
 for lista in dados:
    print(lista)
+
+acessorios = [] # Inicia uma lista vazia chamada "acessorios".
+for lista in dados: # Para cada sub-lista "lista" em "dados", faz o seguinte:
+   for item in lista: # Aninhado que percorre cada item dentro de cada lista.
+      acessorios.append(item) # Para cada item em "lista", adiciona o item à lista "acessorios" usando o método append().
+print(acessorios)
