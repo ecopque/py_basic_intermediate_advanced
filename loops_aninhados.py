@@ -11,3 +11,8 @@ for lista in dados: # Para cada sub-lista "lista" em "dados", faz o seguinte:
    for item in lista: # Aninhado que percorre cada item dentro de cada lista.
       acessorios.append(item) # Para cada item em "lista", adiciona o item à lista "acessorios" usando o método append().
 print(acessorios)
+#####################################
+acessorios = ['Rodas de liga', 'Travas elétricas', 'Piloto automático', 'Bancos de couro', 'Sensor crepuscular', 'Ar condicionado', 'Sensor de estacionamento', 'Sensor crepuscular', 'Sensor de chuva'] # Lista.
+print(set(acessorios)) # "set" para criar um conjunto a partir da lista "acessorios". A função "set" remove elementos duplicados da lista, criando um conjunto com os elementos únicos.
+print()
+print(list(acessorios))
