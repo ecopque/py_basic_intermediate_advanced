@@ -16,3 +16,4 @@ acessorios = ['Rodas de liga', 'Travas elétricas', 'Piloto automático', 'Banco
 print(set(acessorios)) # "set" para criar um conjunto a partir da lista "acessorios". A função "set" remove elementos duplicados da lista, criando um conjunto com os elementos únicos.
 print()
 print(list(acessorios))
+# Estou evitando list comprehension ao máximo. Não há elegância neste tipo de trabalho.
