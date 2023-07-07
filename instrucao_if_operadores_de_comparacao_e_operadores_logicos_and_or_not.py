@@ -13,3 +13,9 @@ dados = [
 for lista in dados: # Começa um loop for que percorre cada item da lista 'dados'.
    if(lista[2] == True): # Verifica se o valor na terceira posição (índice 2) da lista é igual a True.
     print(lista) # Se a condição for verdadeira, imprime a lista. Caso contrário, passa para o próximo item da lista. Resposta: ['DS5', 2019, True], ['A5', 2019, True].
+#########################################
+zero_km_y = [] # Cria uma lista vazia.
+for lista in dados: # Itera sobre a lista "dados" usando um loop for, onde em cada iteração uma sublista é armazenada na variável "lista".
+   if(lista[2] == True): # Verifica se o valor do terceiro elemento da sublista é igual a True usando uma condicional if.
+      zero_km_y.append(lista) # Se a condição for verdadeira, a sublista é adicionada à lista "zero_km_y" usando o método "append".
+print(zero_km_y) # Resposta: [['DS5', 2019, True], ['A5', 2019, True]].
