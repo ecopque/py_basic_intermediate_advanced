@@ -19,5 +19,5 @@ d.quem_sou()
 
 
 
-print(D.__mro__) #1:
-print(D.mro()) #2:
+print(D.__mro__) #1: tuple
+print(D.mro()) #2: list
