@@ -12,3 +12,7 @@ class Cliente(Pessoa):
         super().exibir_extrato() #2:
 x = Cliente('Edson', '789456', 5)
 x.exibir_extrato() #1:
+
+#1: Respostas: Exibindo extrato2! | Exibindo extrato! 
+#2: Se mudar a ordem, ou seja, colocar este super() acima da linha print, teremos seu print primeiro. 
+#3: Perceba que aqui estou sobrescrevendo.
