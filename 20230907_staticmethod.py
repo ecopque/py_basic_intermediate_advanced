@@ -16,5 +16,3 @@ Usuario.eh_adulto(19) #3:
 #3: Resposta: True.
 #4: Basicamente temos uma função normal só que dentro da classe. Mas se eu tentar acessar "cargo" (print(self.altura)) não vau funcionar.
 #5: O método static é mais utilizado como método auxiliar. Pode utilizar desde que nunca vai precisar atributos de classe e nem vai precisar chamar uma função de instância ou atributos de instância (ou função/método de classe).
-
-
