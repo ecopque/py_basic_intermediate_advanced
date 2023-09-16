@@ -1,0 +1,25 @@
+class Pessoa:
+    def __init__(self):
+        self.pessoas = ['Edson', 'Neto', 'Théo', 'Mel']
+    def __len__(self) -> int:
+        x = 0
+        while True:
+            try:
+                y = self.pessoas[x]
+                x += 1
+            except:
+                break
+        return x
+    def __getitem__(self, posicao):
+        return self.pessoas[posicao]
+    def __eq__(self, p2):
+        if len(self.pessoas) == len(p2):
+            x = [self.pessoas[i] == p2[i] for i in range(len(self.pessoas))]
+            return all(x)
+        else:
+            return False
+x = Pessoa()
+y = Pessoa()
+print(x == y) #1:
+
+#1: Resposta: True.
