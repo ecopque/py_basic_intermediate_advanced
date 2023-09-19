@@ -16,3 +16,4 @@ with instancia as arquivo:
     print('With', arquivo)
 
 #1: Quando for abrir um arquivo sem "with", devemos fechá-lo.
+# Concluído.
