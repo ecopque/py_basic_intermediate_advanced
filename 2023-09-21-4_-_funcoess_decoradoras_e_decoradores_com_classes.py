@@ -33,4 +33,4 @@ print(marte) #4:
 #3: Resposta: Planeta({'nome': 'Terra'}).
 #4: Resposta: Planeta({'nome': 'Marte'})
 
-#5: Essa zourra é realmente interessante?
+#5: Agora sim!
