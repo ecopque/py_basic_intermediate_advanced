@@ -8,3 +8,5 @@ acessorios.sort()
 acessorios.pop() # Retira o último.
 acessorios.pop(3) # Remover um item específico da lista pelo seu índice.
 print(acessorios) # ;-)
+
+# https://linktr.ee/edsoncopque
