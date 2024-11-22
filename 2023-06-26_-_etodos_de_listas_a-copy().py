@@ -9,3 +9,5 @@ acessorios_2 = acessorios.copy() # Cópia rasa!
 acessorios_3 = acessorios_2[:] # Cópia rasa de "acessorios_2".
 print(acessorios_2)
 print(acessorios_3)
+
+# https://linktr.ee/edsoncopque
