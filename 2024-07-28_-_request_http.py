@@ -8,3 +8,5 @@ print(response.status_code) #7: #13:
 print(response.headers) #8: #14:
 # print(response.content) #9:
 print(response.text) #10:
+
+# Edson Copque | https://linktr.ee/edsoncopque
