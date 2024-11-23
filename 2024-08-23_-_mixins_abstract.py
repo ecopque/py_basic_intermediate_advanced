@@ -9,3 +9,5 @@ if __name__ == '__main__':
     # l.log('Qualquer coisa...') #2:
     k = LogFileMixin() #3:
     k.log('XYZ') #4:
+
+# Edson Copque | https://linktr.ee/edsoncopque
