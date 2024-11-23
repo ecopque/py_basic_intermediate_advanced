@@ -40,3 +40,5 @@ new_image.save(NEW_IMAGE, optimize=True, quality=70, exif=exif_image) #12:
 #11: Resizes the original image to the specified new dimensions.
 #12: Saves the new image to the file specified by NEW_IMAGE, optimizing it to save disk space, setting the quality to 70, and including the original image's EXIF information.
 #13: Imports the Image class from the PIL module, which is used to work with images.
+
+# Edson Copque | https://linktr.ee/edsoncopque
