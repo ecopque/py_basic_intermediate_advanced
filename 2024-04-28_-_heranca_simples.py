@@ -12,3 +12,5 @@ c1 = Cliente(nome='Edson', sobrenome='Copque')
 c1.falar_nome_classe() #4:
 a1 = Aluno(nome='Théo', sobrenome='de Mel')
 a1.falar_nome_classe() #5:
+
+# Edson Copque | https://linktr.ee/edsoncopque
