@@ -5,3 +5,5 @@ acessorios = [
     ]
 acessorios.sort() # Classifica a lista em ordem alfabética e imprime a lista ordenada.
 print(acessorios)
+
+# Edson Copque | https://linktr.ee/edsoncopque
