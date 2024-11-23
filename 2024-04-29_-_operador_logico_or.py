@@ -6,4 +6,4 @@ if (login == 'E' or login == 'e') and senha == senha_permitida:
 else:
     print('Você saiu.')
 
-# https://linktr.ee/edsoncopque
+# Edson Copque | https://linktr.ee/edsoncopque
