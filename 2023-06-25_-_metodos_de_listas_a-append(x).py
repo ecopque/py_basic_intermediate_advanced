@@ -7,4 +7,4 @@ acessorios.append('4 x 4')
 acessorios.sort() # Classifica a lista em ordem alfabética e imprime a lista ordenada.
 print(acessorios)
 
-# Edson Copque: https://linktr.ee/edsoncopque
+# Edson Copque | https://linktr.ee/edsoncopque
