@@ -9,3 +9,5 @@ s1 = Secretaria()
 v1 = Vendedor()
 print(s1.exibe_cpf()) #3:
 print(v1.exibe_cpf()) #4:
+
+# Edson Copque | https://linktr.ee/edsoncopque
