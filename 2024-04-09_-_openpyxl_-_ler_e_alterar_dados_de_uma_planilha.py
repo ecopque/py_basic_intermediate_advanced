@@ -91,3 +91,5 @@ workbook.save(WORKBOOK_PATH) #16:
 #29: #Response: see image.
 #30: Sets the value of cell 'B3' to 50.
 #31: Here we're changing all "Marie" to 100 years old.
+
+# Edson Copque | https://linktr.ee/edsoncopque
