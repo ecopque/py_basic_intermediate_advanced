@@ -39,3 +39,5 @@ proc_dir(caminho_diretorio) #11:
 #9: Verifica se um argumento (caminho do diretório) foi fornecido.
 #10: Obtém o caminho do diretório a partir do argumento.
 #11: Chama a função para processar o diretório.
+
+# Edson Copque | https://linktr.ee/edsoncopque
