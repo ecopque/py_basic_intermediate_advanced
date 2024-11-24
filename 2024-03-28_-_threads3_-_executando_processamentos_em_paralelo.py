@@ -49,3 +49,5 @@ while t1.is_alive(): #7:
     sleep(2) #9:
 
 print('Thread is over!')
+
+# Edson Copque | https://linktr.ee/edsoncopque
