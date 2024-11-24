@@ -69,3 +69,5 @@ print(fila_correta) #12:
 #10: Adiciona no começo.
 #11: Response: deque([0, 1, 2, 3, 4, 5]).
 #12: Response: deque([1, 2, 3, 4]).
+
+# Edson Copque | https://linktr.ee/edsoncopque
