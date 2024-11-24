@@ -64,3 +64,5 @@ workbook.save(WORKBOOK_PATH) #16:
 #20: This line prints the list of sheet names currently present in the workbook.  After creating the 'LOG' sheet with the previous line, this will likely print ['Sheet', 'LOG'].
 #21: This line removes the sheet named 'Sheet' from the workbook. Since the script created a new sheet named 'LOG' earlier, removing the default 'Sheet' helps with organization.
 #22: This line again prints the list of sheet names after removing the 'Sheet'. This should now print only ['LOG'], confirming the removal.
+
+# Edson Copque | https://linktr.ee/edsoncopque
