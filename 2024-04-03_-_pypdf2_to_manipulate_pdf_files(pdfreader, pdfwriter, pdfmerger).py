@@ -88,3 +88,5 @@ merger.close() #32:
 #31: Writes the merged PDF file to the NEW_FOLDER directory with the name zmerged.pdf.
 #32: Closes the PdfMerger object after the merging operation is completed.
 #Doc: https://pypdf2.readthedocs.io/en/3.0.0/
+
+# Edson Copque | https://linktr.ee/edsoncopque
