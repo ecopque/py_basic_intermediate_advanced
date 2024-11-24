@@ -35,3 +35,5 @@ for i, student_row in enumerate(students, start=2):
 #     worksheet.append(student) # Mesmo resultado do for acima.
 
 workbook.save(WORKBOOK_PATH)
+
+# Edson Copque | https://linktr.ee/edsoncopque
