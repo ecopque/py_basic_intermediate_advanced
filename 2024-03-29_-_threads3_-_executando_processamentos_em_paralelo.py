@@ -93,3 +93,5 @@ if __name__ == '__main__': #13:
 #15: Loop que itera de 1 a 19.
 #16: Cria uma nova thread que chama o método buy da instância tickets1, passando i como argumento.
 #17: Inicia a execução da thread criada. Este loop cria várias threads que tentarão comprar ingressos ao mesmo tempo. O uso do objeto Lock garante que apenas uma thread possa acessar o estoque de ingressos por vez, evitando problemas de concorrência.
+
+# Edson Copque | https://linktr.ee/edsoncopque
