@@ -67,5 +67,6 @@ for i, page in enumerate(reader.pages): #21:
 #23: Adds the current page to the PdfWriter object.
 #24: Writes the current page to the opened PDF file.
 #25: View image E002. Here, it will display the generated files.
-        
 #Doc: https://pypdf2.readthedocs.io/en/3.0.0/
+
+# Edson Copque | https://linktr.ee/edsoncopque
