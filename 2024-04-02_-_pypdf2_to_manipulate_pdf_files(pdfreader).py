@@ -69,3 +69,5 @@ sobre este script? Acesse meu #Substack e #Github.
 #14: Response: File(name=X5.png, data: 1.3 kB).
 #15: Saves the first image in a new directory.
 #Doc: https://pypdf2.readthedocs.io/en/3.0.0/
+
+# Edson Copque | https://linktr.ee/edsoncopque
