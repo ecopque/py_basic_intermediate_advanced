@@ -21,3 +21,5 @@ d.quem_sou()
 
 print(D.__mro__) #1: tuple
 print(D.mro()) #2: list
+
+# Edson Copque | https://linktr.ee/edsoncopque
