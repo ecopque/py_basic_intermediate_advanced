@@ -19,3 +19,5 @@ class LogFileMixin(Log):
 if __name__ == '__main__':
     l = LogFileMixin()
     l.log('Qualquer coisa...')
+
+# Edson Copque | https://linktr.ee/edsoncopque
