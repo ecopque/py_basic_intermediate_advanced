@@ -17,3 +17,5 @@ print(set(acessorios)) # "set" para criar um conjunto a partir da lista "acessor
 print()
 print(list(acessorios))
 # Estou evitando list comprehension ao máximo. Não há elegância neste tipo de trabalho.
+
+# Edson Copque | https://linktr.ee/edsoncopque
