@@ -25,3 +25,5 @@ for lista in dados:
    if(lista[2] == False): # Verifica se o terceiro elemento de lista é "False".
       zero_km_n.append(lista) # Adiciona a sublista atual (lista) à lista "zero_km_n" se o terceiro elemento for False.
 print(zero_km_n) # Resposta: [['Jetta Variant', 2003, False], ['Passat', 1991, False], ['Crossfox', 1990, False], ['Aston Martin DB4', 2006, False], ['Palio Weekend', 2012, False], ['Série 3 Cabrio', 2009, False], ['Dodge Jorney', 2019, False], ['Carens', 2011, False]].
+
+# Edson Copque | https://linktr.ee/edsoncopque
