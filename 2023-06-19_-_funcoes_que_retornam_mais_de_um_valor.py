@@ -10,3 +10,5 @@ def km_media(dataset, ano_atual):
       resultado.update({itens[0] : operacao})
    return resultado
 print(km_media(dados, 2019)) # Resposta: {'Crossfox': 2500.0, 'DS5': 7500.0, 'Corolla': 15000.0}.
+
+# Edson Copque | https://linktr.ee/edsoncopque
