@@ -11,3 +11,5 @@ obj = Filha() #1:
 obj.metodo_filha() #2:
 obj.metodo_pai1() #3:
 obj.metodo_pai2()
+
+# Edson Copque | https://linktr.ee/edsoncopque
