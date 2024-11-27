@@ -27,3 +27,5 @@ proc3 = subprocess.run(cmd, capture_output=True, text=True) #26:
 print(proc3.stdout) #11:
 
 print(sys.platform) #12: #27:
+
+# Edson Copque | https://linktr.ee/edsoncopque
