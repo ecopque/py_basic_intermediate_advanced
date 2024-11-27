@@ -36,3 +36,5 @@ for i in range(8): #13:
 #13: Esta linha inicia um loop que itera 8 vezes.
 #14: Dentro do loop, esta linha imprime o valor atual da variável de loop i no console, que será (0, 1, 2, 3, 4, 5, 6, 7).
 #15: Esta linha pausa a execução do programa principal por 1 segundo.
+
+# Edson Copque | https://linktr.ee/edsoncopque
