@@ -43,3 +43,5 @@ for i in range(10):
 #3: Um texto a ser impresso na tela.
 #4: O tempo, em segundos, que a função deve esperar antes de imprimir o texto.
 #5: Pausa a execução do loop principal por 0.5 segundos a cada iteração.
+
+# Edson Copque | https://linktr.ee/edsoncopque
