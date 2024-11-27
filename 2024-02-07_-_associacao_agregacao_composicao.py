@@ -20,3 +20,5 @@ print(escritor.ferramenta) #3:
 escritor.ferramenta = caneta #4: 
 print(escritor.ferramenta) #(4) #5:
 print(escritor.ferramenta.escrever()) #(4) #6:
+
+# Edson Copque | https://linktr.ee/edsoncopque
