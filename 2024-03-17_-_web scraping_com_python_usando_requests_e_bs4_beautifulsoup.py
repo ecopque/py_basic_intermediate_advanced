@@ -47,3 +47,5 @@ for i in article.select('p'): #20:
 #20: Para cada parágrafo <p> dentro do elemento pai, faz o seguinte:
 #21: Imprime o texto contido em cada parágrafo <p>.
 #Documentação Beaultiful Soup: https://www.crummy.com/software/BeautifulSoup/bs4/doc.ptbr/.
+
+# Edson Copque | https://linktr.ee/edsoncopque
