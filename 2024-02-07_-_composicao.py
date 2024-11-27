@@ -21,3 +21,5 @@ cliente1.inserir_enderecos('Rua 02', 15)
 cliente1.listar_enderecos() #1:
 del cliente1 #2:
 print('*** Aqui termina meu código...') #3:
+
+# Edson Copque | https://linktr.ee/edsoncopque
