@@ -12,3 +12,5 @@ class Caneta:
 canetinha = Caneta(cor='Azul') #4:
 canetinha.cor = 'Vermelha' #5:
 print(canetinha.cor) #6:
+
+# Edson Copque | https://linktr.ee/edsoncopque
