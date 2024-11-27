@@ -15,3 +15,5 @@ class Pessoa:
         self._data_nascimento = value
 p2 = Pessoa('Théo', date(2000, 8, 30))
 print(p2.data_nascimento) #2:
+
+# Edson Copque | https://linktr.ee/edsoncopque
