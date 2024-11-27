@@ -16,3 +16,5 @@ article = top_jobs_heading.parent #18:
 print(article) #19:
 for i in article.select('p'): #20:
     print(i.text) #21:
+
+# Edson Copque | https://linktr.ee/edsoncopque
