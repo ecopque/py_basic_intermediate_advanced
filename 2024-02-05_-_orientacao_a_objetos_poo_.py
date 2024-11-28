@@ -21,3 +21,5 @@ usuario2.exibe_cargo() #17:
 Usuario.cargo = 'Gerente' #18:
 usuario1.exibe_cargo() #19:
 usuario2.exibe_cargo() #20:
+
+# Edson Copque | https://linktr.ee/edsoncopque
