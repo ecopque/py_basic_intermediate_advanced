@@ -9,3 +9,5 @@ class Usuario:
 usuario1 = Usuario('Edson', '39', '171')
 usuario1.altura_usuario() #1:
 Usuario.altura_usuario() #2:
+
+# Edson Copque | https://linktr.ee/edsoncopque
