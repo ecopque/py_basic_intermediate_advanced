@@ -27,4 +27,4 @@ print(c2.user) #4:
 print(c2.password) #5:
 print(Connection.soma(3, 5)) #6:
 
-# https://linktr.ee/edsoncopque
+# Edson Copque | https://linktr.ee/edsoncopque
