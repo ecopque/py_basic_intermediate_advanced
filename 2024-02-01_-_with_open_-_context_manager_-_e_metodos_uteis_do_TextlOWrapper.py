@@ -5,3 +5,5 @@ with open(caminho_arquivo, 'w') as arquivo: #1:
     arquivo.write('Linha 2, friend.')
 with open(caminho_arquivo, 'r') as arquivo: #3:
     print(arquivo.read()) #4:
+
+# Edson Copque | https://linktr.ee/edsoncopque
