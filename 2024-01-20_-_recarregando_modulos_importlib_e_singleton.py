@@ -5,3 +5,5 @@ for indice in range(10): #7:
     importlib.reload(repeticao) #8:
     print(indice) #9:
 print(str('Fim'), __name__) #10:
+
+# Edson Copque | https://linktr.ee/edsoncopque
