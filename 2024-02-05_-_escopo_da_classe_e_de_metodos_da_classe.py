@@ -11,3 +11,5 @@ cachorro = Animal(parametro='Théo')
 print(cachorro.nome) #1: #2:
 print(cachorro.acao(parametro2='Semente de Abóbora.')) #3:
 print(cachorro.executar(parametro2='ração')) #4:
+
+# Edson Copque | https://linktr.ee/edsoncopque
