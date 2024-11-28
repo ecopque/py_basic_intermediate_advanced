@@ -11,3 +11,5 @@ print(Pessoa.ano) #2:
 p2 = Pessoa.criar_com_50_anos('Neto')
 print(p2.nomeacao, p2.age) #4:
 print(p2) #5:
+
+# Edson Copque | https://linktr.ee/edsoncopque
