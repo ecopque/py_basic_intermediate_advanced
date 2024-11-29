@@ -21,3 +21,5 @@ if __name__ == '__main__':
 #1: "self" será "p1", "other" será "p2". Python faz isso automaticamente.
 #2: Entenda: "p1" _add__ "p2". É assim!
 #3: Resposta: Ponto (x=10, y=6).
+
+# Edson Copque | https://linktr.ee/edsoncopque
