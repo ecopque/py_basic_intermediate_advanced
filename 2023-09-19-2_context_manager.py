@@ -27,3 +27,5 @@ with instancia as arquivo:
 #3: Resposta: Init | Enter: abrindo arquivo | With <_io.TextIOWrapper name='app.txt' mode='w' encoding='utf8'> | Exit: fechando arquivo.
 #4: Inserindo informações no "arquivo".
 # Concluído.
+
+# Edson Copque | https://linktr.ee/edsoncopque
