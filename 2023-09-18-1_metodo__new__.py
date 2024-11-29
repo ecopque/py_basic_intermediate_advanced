@@ -12,3 +12,5 @@ a = A()
 
 #1: Poderia fazer "class A(object):", que daria no mesmo.
 #2: Em outro momento foi feito: "return object.__new__(A)" e obtivemos o mesmo resultado.
+
+# Edson Copque| https://linktr.ee/edsoncopque
