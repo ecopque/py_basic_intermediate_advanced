@@ -27,3 +27,5 @@ if __name__ == '__main__':
 #1: A soma de 4 e 2 = 6.
 #2: A soma de 6 e 4 = 10.
 #3: Resposta: False.
+
+# Edson Copque | https://linktr.ee/edsoncopque
