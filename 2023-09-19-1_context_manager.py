@@ -17,3 +17,5 @@ with instancia as arquivo:
 
 #1: Quando for abrir um arquivo sem "with", devemos fechá-lo.
 # Concluído.
+
+# Edson Copque | https://linktr.ee/edsoncopque
