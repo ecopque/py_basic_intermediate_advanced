@@ -7,3 +7,5 @@ x = Pessoa()
 print(reversed(x)) #1:
 
 #1: Resposta: ['Mel', 'Théo', 'Neto', 'Edson'].
+
+# Edson Copque | https://linktr.ee/edsoncopque
