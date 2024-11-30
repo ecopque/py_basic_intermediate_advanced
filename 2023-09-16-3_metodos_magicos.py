@@ -22,3 +22,5 @@ for i in minha_pessoa:
     print(i) #1:
 
 #1: Resposta: Edson, Neto, Théo, Mel.
+
+# Edson Copque | https://linktr.ee/edsoncopque
