@@ -11,3 +11,5 @@ class Pessoa:
 x = Pessoa()
 del x[1]
 print(x.pessoas)
+
+# Edson Copque | https://linktr.ee/edsoncopque
