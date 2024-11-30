@@ -13,3 +13,5 @@ print(reversed(x)) #3:
 #1: Converter o resultado de reversed para lista.
 #2: Resposta: ['Mel', 'Théo', 'Neto', 'Edson'].
 #3: Resposta: ['Mel', 'Théo', 'Neto', 'Edson'].
+
+# Edson Copque | https://linktr.ee/edsoncopque
