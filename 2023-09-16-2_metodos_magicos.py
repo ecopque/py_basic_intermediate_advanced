@@ -25,3 +25,5 @@ y = Pessoa()
 print(x == y) #1:
 
 #1: Resposta: True.
+
+# Edson Copque | https://linktr.ee/edsoncopque
