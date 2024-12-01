@@ -8,3 +8,5 @@ x = Pessoa()
 print(x * 2) #1:
 
 #1: Resposta: ['Edson', 'Neto', 'Théo', 'Mel', 'Edson', 'Neto', 'Théo', 'Mel']
+
+# Edson Copque | https://linktr.ee/edsoncopque
