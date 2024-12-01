@@ -17,3 +17,5 @@ print(len(x)) #4:
 #2: Enquanto for verdade (loop infinito).
 #3: A cada iteração de y, x recebe mais um.
 #4: Resposta: 4.
+
+# Edson Copque | https://linktr.ee/edsoncopque
