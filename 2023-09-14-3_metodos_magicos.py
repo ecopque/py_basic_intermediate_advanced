@@ -7,3 +7,5 @@ x = Pessoa()
 print(x) #1: #2:
 #1: Resposta: Pessoa(pessoas = ['Edson', 'Théo', 'Mel']).
 #2: Agora sim, teremos o print pois usamos o "__str__" para tal.
+
+# Edson Copque | https://linktr.ee/edsoncopque
