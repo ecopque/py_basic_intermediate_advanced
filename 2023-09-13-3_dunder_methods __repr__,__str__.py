@@ -23,3 +23,5 @@ print(f'{p2!r}') #7: #8:
 #6: Resposta: (123, 789).
 #7: Solicitando print tipo método __repr__.
 #8: Resposta: Ponto(x=123, y=789).
+
+# Edson Copque | https://linktr.ee/edsoncopque
