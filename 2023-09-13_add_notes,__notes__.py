@@ -20,3 +20,5 @@ except (MeuError, ZeroDivisionError) as error:
 #2: Adicionando mas uma nova nota.
 #3: Estamos copiando as notas do "error".
 #4: Não consegui reproduzir. No site foi citado Python 3.11 (estou usando 3.9.2).
+
+# Edson Copque | https://linktr.ee/edsoncopque
