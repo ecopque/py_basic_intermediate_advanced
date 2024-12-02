@@ -6,3 +6,5 @@ class Pessoa:
 x = Pessoa()
 print(x) #2: Resposta: Olá, amigos!
 print(x.pessoas) #3: ['Edson', 'Théo', 'Mel'].
+
+# Edson Copque | https://linktr.ee/edsoncopque
