@@ -15,3 +15,5 @@ print(p2) #2:
 
 #1: Resposta: (3, 6).
 #2: Resposta: (123, 789).
+
+# Edson Copque | https://linktr.ee/edsoncopque
