@@ -16,3 +16,5 @@ print(p2) #5:
 #3: Deixei ocioso, não estou usando pois decidi utilizar o #1.
 #4: Resposta: Ponto(x=3, y=6).
 #5: Resposta: Ponto(x=123, y=789).
+
+# Edson Copque | https://linktr.ee/edsoncopque
