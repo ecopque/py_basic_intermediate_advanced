@@ -14,3 +14,5 @@ except (MeuError, ZeroDivisionError) as error: #2:
 #2: Além de MeuError, adicionamos outro erro bem específico: Zero DivisinoError.
 #3: Resposta: ZeroDivisionError.
 #4: Resposta: ('division by zero',)
+
+# Edson Copque | https://linktr.ee/edsoncopque
