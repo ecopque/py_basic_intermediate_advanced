@@ -17,3 +17,5 @@ except (MeuError, ZeroDivisionError) as error:
 #2: Usando "OutroError".
 #3: Vou lançar minha excessão da excessão anterior.
 #4: Resposta: __main__.OutroError: Vou lançar novamente!
+
+# Edson Copque | https://linktr.ee/edsoncopque
