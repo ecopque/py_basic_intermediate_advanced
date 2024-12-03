@@ -19,3 +19,5 @@ class Foo(AbstractFoo):
 foo = Foo('Bar')
 print(foo.name)
 #Foo
+
+# Edson Copque | https://linktr.ee/edsoncopque
