@@ -7,3 +7,5 @@ try:
 except MeuError as error:
     print(error) #1:
 #1: Resposta: A mensagem do meu erro.
+
+# Edson Copque | https://linktr.ee/edsoncopque
