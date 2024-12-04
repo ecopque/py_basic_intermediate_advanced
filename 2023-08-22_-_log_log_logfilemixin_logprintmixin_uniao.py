@@ -18,3 +18,5 @@ if __name__ == '__main__':
     l = LogPrintMixin()
     l.log_erro('Usando log_erro!')
     l.log_success('Usando log_success!')
+
+# Edson Copque | https://linktr.ee/edsoncopque
