@@ -12,4 +12,4 @@ print(quadrado)
 ##########################################################
 quadrado2 = [i ** 2 for i in range(10)] # List Comprehension! sic
 
-# https://linktr.ee/edsoncopque
+# Edson Copque | https://linktr.ee/edsoncopque
