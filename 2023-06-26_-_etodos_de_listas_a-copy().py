@@ -10,4 +10,4 @@ acessorios_3 = acessorios_2[:] # Cópia rasa de "acessorios_2".
 print(acessorios_2)
 print(acessorios_3)
 
-# https://linktr.ee/edsoncopque
+# Edson Copque | https://linktr.ee/edsoncopque
