@@ -5,4 +5,4 @@ print(carros[0]) # Jetta Variant.
 print(carros[-2]) # ['Central multimídia', 'Teto panorâmico', 'Freios ABS'].
 print(carros[-2][1]) # Teto panorâmico.
 
-# https://linktr.ee/edsoncopque
+# Edson Copque | https://linktr.ee/edsoncopque
